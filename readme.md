@@ -27,21 +27,22 @@ Die Hardware-Zugriffe muss ich auch berücksichtigen, da diese das User-Experien
 
 ## 22.8
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
+- [ ] Überblick verschaffen und [Issue 1](https://github.com/seakyy/Mobile-Casino/issues/1) und [Issue 2](https://github.com/seakyy/Mobile-Casino/issues/2) erstellen.
+- [ ] Setup für .NET MAUI Framework einrichten.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
+
 
 ## 29.8
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3 
-- [ ] Arbeitspaket 4
+- [ ] Designing Prototype 1 - smartphone vertical layout
+- [ ] Designing Prototype 2 - smartphone horizontal layout
+- [ ] Designing Prototype 3 - tablet vertical layout 
+- [ ] Designing Prototype 4 - tablet horizontal layout
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
