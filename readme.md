@@ -32,7 +32,9 @@ Die Hardware-Zugriffe muss ich auch berücksichtigen, da diese das User-Experien
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-https://github.com/seakyy/Mobile-Casino/issues/1#issuecomment-3214607371
+Heute habe ich meine zwei ersten Arbeitspackete bzw Issues verfasst. Damit ich das nächste mal direkt mit dem Implementieren des alten Codes anfangen kann, musste ich zuerst meine Entwicklungsumgebung ändern. Um die passende Entwicklungsumgebung zu haben musste ich zuerst den Visual Studio Installer öffnen und das Packet installieren was mir die Mobile Entwicklung mittels .NET MAUI ermöglicht. Während sich das Packet installierte habe ich angefangen mir Gedanken zu den Anforderungen zu machen. Da responsive User-Interface ein (sehr) wichtiger Punkt ist bei mobile Apps habe ich mir überlegt was für Prototypen ich brauche (Siehe Arbeitspackete **29.8**). Als nächstes mache ich die Analyse meines vorherigen Code und sortiere es in [drei Kategorien](https://github.com/seakyy/Mobile-Casino/issues/1#issuecomment-3214607371) ein, somit weiss ich wo ich am meisten Zeit einplanen muss.     
+
+Für Herr Colic: Sparen Sie sich Zeit, schauen Sie sich einfach die Analyse an: [Link zum Kommentar](https://github.com/seakyy/Mobile-Casino/issues/1#issuecomment-3214607371)
 
 ## 29.8
 
@@ -44,6 +46,7 @@ https://github.com/seakyy/Mobile-Casino/issues/1#issuecomment-3214607371
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
