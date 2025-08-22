@@ -5,15 +5,30 @@
 ## Grob-Planung
 
 1. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
+Ich will meine bestehendes [WPF-Projekt](https://github.com/seakyy/CasinoWPF) in eine Mobile Applikation umwandeln.
+
 2. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.
+Ich denke mal die MVVM-Struktur, in die passende Mobile Architektur umzuwandeln.
+
 3. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.
+Schritt für Schritt Dokumentation, falls später andere Devs es verbessern möchen.
+
 4. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?
+Beide werden hoffentlich als Appliaktionen im PLay Store o.ä. auffindbar sein und ohne verheerende Bugs funktionieren. Die Funktionalität der Appliaktionen sollte sich nicht veränder.
+Die Unterschiede der Applikationen liegen im Thema der App. Bei der Mobilen Version meiner CasinoWPF werde ich lernen, wie man eine MVVM strukturierte Applikation in eine mobile Appliaktion umwandelt. Da es sich um ein längeres bstehendes Projekt handelt, kann ich das gleiche schlecht zwei mal machen.
+
+
+### Gedankengang, vor dem Start des Projekts
+Da meine [CasinoWPF-App](https://github.com/seakyy/CasinoWPF) das [.NET Framework](https://learn.microsoft.com/en-us/dotnet/framework/) nutzt, kann ich es nicht umwandeln zu einer mobilen App. Mein erster Gedanke wäre, mein ganzes Projekt auf ein [.NET MAUI - Framework](https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-9.0) umzustellen. Somit spare ich mir viel Ziet, da ich einen grossen Teil meines Codes wiederverwenden kann und nicht zu viel Zeit verschwende die gleichen Funktionen ein zweites mal neu zu programmieren. 
+
+Ich muss unbedingt auf ein Responsive UI achten, da es verschiedene Bildschirm-Grössen gibt, sei es Smartphone oder Tablets. Ich muss auch im Hinterkopf behalten, dass wir (* Im Sinne von; Wir Handy- und Tablet-User) keinen Cursor haben, sonern alles mit dem Finger/Stift steuern.
+
+Die Hardware-Zugriffe muss ich auch berücksichtigen, da diese das User-Experience deutlich verbessern könnten (Z.B.: Durch Vibrationen bei Gewinn).
 
 ## 22.8
 
-- [ ] Arbeitspaket 1: Erstellen Sie ein Projekt und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
-- [ ] Arbeitspaket 2 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten fügen Sie hier ein weiteres AP ein).
-- [ ] Arbeitspaket 3
+- [ ] Arbeitspaket 1
+- [ ] Arbeitspaket 2
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -29,3 +44,4 @@
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
