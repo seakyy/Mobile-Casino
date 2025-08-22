@@ -32,7 +32,7 @@ Die Hardware-Zugriffe muss ich auch berücksichtigen, da diese das User-Experien
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-
+https://github.com/seakyy/Mobile-Casino/issues/1#issuecomment-3214607371
 
 ## 29.8
 
@@ -44,5 +44,6 @@ Die Hardware-Zugriffe muss ich auch berücksichtigen, da diese das User-Experien
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
