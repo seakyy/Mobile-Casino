@@ -44,9 +44,13 @@ Für Herr Colic: Sparen Sie sich Zeit, schauen Sie sich einfach die Analyse an: 
 - [ ] Designing Prototype 4 - tablet horizontal layout
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die vorgesehene Arbeitspackete für diesen Tag nicht geschafft, da ich zuerst sicherstellen musste, dass ich mein [Ursprungsprojekt](https://github.com/seakyy/CasinoWPF) fertig bringe, damit ich viel Code übertragen kann (XAML-Dateien). Ich habe die [Version 1.3](https://github.com/seakyy/CasinoWPF/releases/tag/release) released, die jetzt neu viele funktionale Issues gepatched hat und neue Statistiken mit sich bringt. Deshalb veschiebe ich jetzt die alten vorgesehene Arbeitspackete auf nächste Woche, aber diesmal verfasse ich sie in User-Stories.
 
-☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
 
-
+## 5.9
+- [ ] Als Smartphone-User möchte ich das Mobile-Casino im Hochformat spielen, damit ich es bequem bedienen kann.
+- [ ] Als Smartphone-User möchte ich das Mobile-Casino im Querformat spielen, damit ich eine breitere Spielübersicht habe.
+- [ ] Als Tablet-User möchte ich das Mobile-Casino im Hochformat spielen, damit die Bedienung auf einem grossen Bildschirm angenehm ist.
+- [ ] Als Tablet-User möchte ich das Mobile-Casino im Querformat spielen, um den grossen Bildschirm optimal zu nutzen.
 
 
