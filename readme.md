@@ -54,3 +54,11 @@ Heute habe ich die vorgesehene Arbeitspackete für diesen Tag nicht geschafft, d
 - [ ] Als Tablet-User möchte ich das Mobile-Casino im Querformat spielen, um den grossen Bildschirm optimal zu nutzen.
 
 
+Heute habe ich am ersten Prototyp des Mobile Casinos gearbeitet. Ich habe eine [Datei](https://github.com/seakyy/Mobile-Casino/blob/main/design/prototype.md) erstellt bei der man alle bisherigen Prototypen sieht. Somit werde ich am Schluss eine Sammlung von verschiedene Design haben. Damit ich das perfekte User-Experience habe, werde ich eine kurze Umfrage erstellen, bei dem sich für das "beste" Design entscheiden kann (ähnlich wie bei der Umfrage für die neuen Banknoten der SNB). Sobald ich mich entschieden habe, wird das Design umgesetzt.
+
+
+## 12.9
+- [ ] Als Anprechperson für den Kunden möchte ich einen ersten Prototyp haben, bei der man ein einfaches Design hat.
+- [ ] Als Anprechperson für den Kunden möchte ich die Logik haben, damit man die Funktionsweise der Applikation sehen kann.
+- [ ] Als Entwickler möchte ich eine Dokumentation haben, damit ich sehen kann was bereits umgesetzt worden ist.
+- [ ] Als Ansprechperson für den Kunden möchte ich neue Prototyp-Designs haben, die ich am Kunden zeigen kann.
